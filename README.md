@@ -22,7 +22,9 @@ As part of the RSE Reactor Sprint a deployment of HPC Services in the cloud was 
 
 Azure CycleCloud is a tool for creating, managing, operating, and optimizing HPC & Big Compute clusters in Azure. With Azure CycleCloud, users can dynamically provision HPC Azure clusters and orchestrate data and jobs for hybrid and cloud workflows. Azure CycleCloud provides alerting, monitoring, and automatically scales HPC infrastructure to ensure your jobs run efficiently at any scale. Azure CycleCloud offers advanced policy and governance features such as: cost reporting and controls, usage reporting, AD/LDAP integration, monitoring and alerting, and audit/event logging to give users full control over who runs what, where, and at what cost within Azure. see more details [here](https://docs.microsoft.com/en-us/azure/cyclecloud/overview) 
 
-RSE wishing to use Cycle Cloud to deploy HPC cluster on campus should follow the guidance at https://github.com/research-software-reactor/cyclecloud/tree/master/arm-templates
+RSEs wishing to use Cycle Cloud to deploy HPC cluster on campus should follow the guidance at https://github.com/research-software-reactor/cyclecloud/tree/master/arm-templates
+
+You can follow the Quick Start tutorial at https://github.com/research-software-reactor/cyclecloud/tree/master/QuickStarts which include Slurm Cluster Deployments.
 
 
 
